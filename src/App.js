@@ -61,7 +61,9 @@ function App() {
         <Form.Group>
           <Form.Label><h1>Sayyid Mansoob Hasan</h1></Form.Label><br></br>
           <br></br>
-          <Form.Label>Recipient Address</Form.Label><br></br>
+        <Form.Label><h2>DAI Toke_Transfer App</h2></Form.Label><br></br>
+          <br></br>
+          <Form.Label><h3>Recipient Address</h3></Form.Label><br></br>
           <input
             type="text"
             placeholder="Add Recipient's Address"
@@ -72,7 +74,7 @@ function App() {
           <br />
         </Form.Group>
         <Form.Group>
-          <label>Amount</label><br></br>
+          <label><h3>DAI To Be Transfered</h3></label><br></br>
           <input type="text"
             placeholder="Enter Amount to be Transfered"
             required
