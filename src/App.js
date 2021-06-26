@@ -61,7 +61,7 @@ function App() {
         <Form.Group>
           <Form.Label><h1>Sayyid Mansoob Hasan</h1></Form.Label><br></br>
           <br></br>
-        <Form.Label><h2>DAI Toke_Transfer App</h2></Form.Label><br></br>
+        <Form.Label><h2>DAI Token_Transfer App</h2></Form.Label><br></br>
           <br></br>
           <Form.Label><h3>Recipient Address</h3></Form.Label><br></br>
           <input
