@@ -56,6 +56,7 @@ function App() {
 
   return (
     <div className="App">
+    <div class="center">
       <header className = 'App-header'>
       <Form>
         <Form.Group>
@@ -94,6 +95,7 @@ function App() {
 
       }  
       </header>   
+    </div>
     </div>
   );
 }
